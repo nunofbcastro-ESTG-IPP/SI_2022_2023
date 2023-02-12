@@ -67,35 +67,35 @@ yarn run dev
 <h3>
   Nuno Castro
   <a href="https://github.com/nunofbcastro?tab=followers">
-    <img src="https://img.shields.io/github/followers/nunofbcastro.svg?style=style=for-the-badge&label=Follow" height="20"/>
+    <img src="https://img.shields.io/github/followers/nunofbcastro.svg?style=for-the-badge&label=Follow" height="20"/>
   </a>
 </h3>
 
 <h3>
   Bruno Ferreira
   <a href="https://github.com/brunoferreira0106?tab=followers">
-    <img src="https://img.shields.io/github/followers/brunoferreira0106.svg?style=style=for-the-badge&label=Follow" height="20"/>
+    <img src="https://img.shields.io/github/followers/brunoferreira0106.svg?style=for-the-badge&label=Follow" height="20"/>
   </a>
 </h3>
 
 <h3>
   Gonçalo Oliveira
   <a href="https://github.com/oliveira1712?tab=followers">
-    <img src="https://img.shields.io/github/followers/oliveira1712.svg?style=style=for-the-badge&label=Follow" height="20"/>
+    <img src="https://img.shields.io/github/followers/oliveira1712.svg?style=for-the-badge&label=Follow" height="20"/>
   </a>
 </h3>
 
 <h3>
   Jorge Correia
   <a href="https://github.com/JorgeMFC?tab=followers">
-    <img src="https://img.shields.io/github/followers/JorgeMFC.svg?style=style=for-the-badge&label=Follow" height="20"/>
+    <img src="https://img.shields.io/github/followers/JorgeMFC.svg?style=for-the-badge&label=Follow" height="20"/>
   </a>
 </h3>
 
 <h3>
   Luís Sousa
   <a href="https://github.com/luisousa14?tab=followers">
-    <img src="https://img.shields.io/github/followers/luisousa14.svg?style=style=for-the-badge&label=Follow" height="20"/>
+    <img src="https://img.shields.io/github/followers/luisousa14.svg?style=for-the-badge&label=Follow" height="20"/>
   </a>
 </h3>
 
