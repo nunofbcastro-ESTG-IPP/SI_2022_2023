@@ -16,8 +16,9 @@
 <h2>Languages</h2>
 <p align="left"> 
   <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Next.js&amp;color=000000&amp;logo=Next.js&amp;logoColor=FFFFFF&amp;label=" alt="Next.js">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=PostgreSQL&amp;color=4169E1&amp;logo=PostgreSQL&amp;logoColor=FFFFFF&amp;label=" alt="PostgreSQL">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Docker&amp;color=2496ED&amp;logo=Docker&amp;logoColor=FFFFFF&amp;label=" alt="Docker">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Prisma&amp;color=2D3748&amp;logo=Prisma&amp;logoColor=FFFFFF&amp;label=" alt="Prisma">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=PostgreSQL&amp;color=4169E1&amp;logo=PostgreSQL&amp;logoColor=FFFFFF&amp;label=" alt="PostgreSQL">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Docker&amp;color=2496ED&amp;logo=Docker&amp;logoColor=FFFFFF&amp;label=" alt="Docker">
 </p>
 
 ---
