@@ -1,15 +1,15 @@
 <h1 align="center">Practical Work on Sistemas de Informação (Information systems)</h1>
 
-<img src="https://github.com/nunofbcastro-ESTG-IPP/SI_2022_2023/blob/main/images/Page.png?raw=true"/>
+<img src="/images/Page.png?raw=true"/>
 
 <p>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2022/2023&color=sucess"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=SI&color=sucess"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=16&color=sucess"/>
-  <a href="https://github.com/nunofbcastro-ESTG-IPP/SI_2022_2023/tree/main/Enunciado" target="_blank">
+  <a href="/Enunciado" target="_blank">
     <img src="https://img.shields.io/badge/-Utterance-grey?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/nunofbcastro-ESTG-IPP/SI_2022_2023/tree/main/Relatorio" target="_blank">
+  <a href="/Relatorio" target="_blank">
     <img src="https://img.shields.io/badge/-Report-grey?style=for-the-badge"/>
   </a>
 </p>
